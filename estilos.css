@@ -100,8 +100,8 @@ body.dark .acerca-img .circle-spin {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%) rotate(0);
-    width: 55rem;
-    height: 55rem;
+    width: 35rem;
+    height: 35rem;
     border-radius: 50%;
     border-top: .2rem solid var(--text-color);
     border-bottom: .2rem solid var(--text-color);
